@@ -32,7 +32,7 @@ MongoDB - документно-ориентированная, NoSQL база д
 ---
 
 ### Быстрый старт
-- Клонируйте репозиторий: `https://github.com//mongodb.git`
+- Клонируйте репозиторий: `(https://github.com/Eduard-soft/mongodb-main)`
 - Перейдите в папку с проектом: `cd mongodb`
 - Установите зависимости: `yarn install`
 - Запустите сервер: `yarn dev`
